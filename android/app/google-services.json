@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521656950096",
+    "project_id": "authapp-40b86",
+    "storage_bucket": "authapp-40b86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521656950096:android:cd07b170c9c43c240b6055",
+        "android_client_info": {
+          "package_name": "com.Macro.auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfsZOROMM-a-mW5KH8KFwS4hGo1YGNkUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
